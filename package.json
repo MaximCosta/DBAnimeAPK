@@ -10,7 +10,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@material-ui/lab": "^4.0.0-alpha.53",
-    "@nozbe/watermelondb": "^0.16.0",
+    "@nozbe/watermelondb": "^0.16.2",
     "@nozbe/with-observables": "^1.0.5",
     "@react-native-community/masked-view": "0.1.6",
     "@react-navigation/drawer": "^5.8.0",
