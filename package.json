@@ -36,7 +36,7 @@
     "react-native-hamburger": "0.0.2",
     "react-native-hr": "^1.1.4",
     "react-native-paper": "^3.10.1",
-    "react-native-reanimated": "~1.7.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-safe-area-context": "0.7.3",
     "react-native-screens": "~2.2.0",
     "react-native-snackbar": "^2.2.2",
